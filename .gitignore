@@ -1,0 +1,26 @@
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+# Ignore Python virtual environment
+venv/
+# Ignore temporary files
+temp_video.mp4
+temp_frames/
+temp_silhouettes/
+__pycache__/
+*.log
+*.mp4
+*.avi
+*.mov
+venv/
+.env
+
+frames/
+gei/
+silhouettes/
+output/
+videos/
